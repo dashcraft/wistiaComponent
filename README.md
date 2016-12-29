@@ -3,8 +3,8 @@ Wistia component for process street
 
 # Start
 
-*To start the file, clone the repository and use `npm install` to load all required modules
-*Use `npm start` to start the local server, then browse to `localhost:3000` to view the widget.
+* To start the file, clone the repository and use `npm install` to load all required modules
+* Use `npm start` to start the local server, then browse to `localhost:3000` to view the widget.
 
 ##How it works
 I created a component called `<wistia>` with an attribute `pass`. The `pass` attribute
